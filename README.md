@@ -7,9 +7,3 @@ algorithms used:
 - Solovay–Strassen
 - Rabin–Miller
 
-
-
-
-
-
-# prime-testing

@@ -1,0 +1,5 @@
+
+TODO:
+- vyzkoušet ostatní testy
+- zkusit to pro fib. cisla (kolik roundu potrebujou)
+
